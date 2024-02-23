@@ -16,6 +16,9 @@ body {
          color: black;
       
 }
+.menu ul li a:hover{
+    background-color: yellow;
+}
 .menu{
           width: 70%;
          height: 50px;
